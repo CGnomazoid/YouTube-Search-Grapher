@@ -23,3 +23,10 @@ in the directory of the program or by using the VSCode extension.</p>
     <li><p>You have to enter in the code for the playlist within the script- and type in the name of the playlist while running. By default its set to a playlist of every MrBeast video.</p></li>
     <li><p>On top of ^ is that the name of the playlist has to be typed in manually- this should be an easy fix but I'm more focused on getting it to work on a channel.</p></li>
 </ul>
+
+<h2>MatPlotLib</h2>
+<img src="00_Examples/matplotlib.png" alt="matplotlib" width="500" height="500">
+<h2>PyGal</h2>
+<img src="00_Examples/pygal.png" alt="matplotlib" width="500" height="500">
+<h2>Plotly</h2>
+<img src="00_Examples/plotly.png" alt="matplotlib" width="500" height="500">
