@@ -25,8 +25,8 @@ in the directory of the program or by using the VSCode extension.</p>
 </ul>
 
 <h2>MatPlotLib</h2>
-<img src="00_Examples/matplotlib.png" alt="matplotlib" width="500" height="500">
+<img src="00_Examples/matplotlib.png" alt="matplotlib" width="300" height="300">
 <h2>PyGal</h2>
-<img src="00_Examples/pygal.png" alt="matplotlib" width="500" height="500">
+<img src="00_Examples/pygal.png" alt="matplotlib" width="300" height="300">
 <h2>Plotly</h2>
-<img src="00_Examples/plotly.png" alt="matplotlib" width="500" height="500">
+<img src="00_Examples/plotly.png" alt="matplotlib" width="300" height="300">
