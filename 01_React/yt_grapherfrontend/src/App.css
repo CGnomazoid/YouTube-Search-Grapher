@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.calculatorInput {
+  background-color: #66ff0d;
+  color: aliceblue;
+  text-align: center;
+  border: none;
+
+  padding: 30px;
+}
+
+.calculatorButtons {
+  background-color: #ff660d;
+  color: aliceblue;
+  text-align: center;
+  padding: 8px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
